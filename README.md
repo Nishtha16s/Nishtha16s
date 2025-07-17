@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there 👋 I'm Nishtha Roy
 
-<!--
-**Nishtha16s/Nishtha16s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech student at Quantum University, Roorkee  
+💻 Web Developer | Python Programmer | Tech Enthusiast  
+🌏 Passionate about building meaningful software and solving real-world problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills & Tools
+
+**Languages:**  
+Python, C, C++, JavaScript, HTML5, CSS3
+
+**Frameworks & Libraries:**  
+React.js, Node.js, Express.js, Bootstrap, Tailwind CSS
+
+**Databases & Dev Tools:**  
+MySQL, MongoDB, Git, GitHub, VS Code, Postman
+
+---
+
+### 💡 Projects I'm Proud Of
+
+- **🎧 Spotify Clone** – A music streaming UI with custom playlists and player controls  
+- **📺 Netflix Clone** – Clean, responsive front-end with real-time content rendering  
+- **🍴 AI Rasoi** – A bilingual recipe assistant using AI (Hindi + English)  
+- **🍔 Food Delivery System** – Inspired by Zomato/Swiggy with search & cart functionality  
+- **💬 Quora-style Q&A Site** – Users can post, comment, and interact with real-time backend  
+
+> Check out all my projects in the repositories section!
+
+---
+
+### 🏆 Experience & Internships
+
+- **Python Developer Intern** – CODTECH IT SOLUTIONS  
+- **Frontend Intern** – Oasis Infobyte  
+- **Published Research** – Paper on Drone Technology  
+
+---
+
+### 📬 Let’s Connect
+
+- 📧 Email: nishtharoy1234@gmail.com  
+- 📱 Phone: 8797329233  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nishtharoy3)  
+- 📸 [Instagram](https://www.instagram.com/nishtharoy3)
+
+---
+
+> “Keep learning. Keep building. Stay curious.”
+
+Thanks for stopping by! ⭐
