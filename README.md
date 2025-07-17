@@ -19,8 +19,7 @@ Always curious, always learning. Let’s build something awesome together!
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,py,cpp,git,github,vscode)](https://skillicons.dev)
 
 ---
-
-## 🔥 Projects I'm Proud Of
+## 🔥 Projects
 
 | Project | Description |
 |--------|-------------|
@@ -29,6 +28,9 @@ Always curious, always learning. Let’s build something awesome together!
 | **🍴 AI Rasoi** | A bilingual (Hindi+English) recipe assistant powered by AI |
 | **🍔 Food Delivery System** | Clone of Zomato/Swiggy with order and cart functionality |
 | **💬 Quora-style Q&A App** | Ask, answer, and upvote – powered by Node.js & MongoDB |
+| **🧠 Simon Game** | Classic memory game built with JavaScript and interactive UI |
+| **🎯 Guessing Game** | Number guessing game with logic and score tracker in JS |
+
 
 ---
 
