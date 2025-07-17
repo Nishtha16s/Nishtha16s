@@ -1,53 +1,53 @@
 # Hi there 👋 I'm Nishtha Roy
 
-🎓 Final-year B.Tech student at Quantum University, Roorkee  
-💻 Web Developer | Python Programmer | Tech Enthusiast  
-🌏 Passionate about building meaningful software and solving real-world problems  
+🎓 Final-year B.Tech student at **Quantum University, Roorkee**  
+💻 Web Developer • Python Programmer • Tech Enthusiast  
+📍 Based in India | Building cool things on the internet
 
 ---
 
-### 🚀 Skills & Tools
+## 👩‍💻 About Me
 
-**Languages:**  
-Python, C, C++, JavaScript, HTML5, CSS3
-
-**Frameworks & Libraries:**  
-React.js, Node.js, Express.js, Bootstrap, Tailwind CSS
-
-**Databases & Dev Tools:**  
-MySQL, MongoDB, Git, GitHub, VS Code, Postman
+I'm passionate about turning ideas into real-world applications.  
+I enjoy building web apps that are clean, user-friendly, and useful.  
+Always curious, always learning. Let’s build something awesome together!
 
 ---
 
-### 💡 Projects I'm Proud Of
+## ⚒️ Skills & Tools
 
-- **🎧 Spotify Clone** – A music streaming UI with custom playlists and player controls  
-- **📺 Netflix Clone** – Clean, responsive front-end with real-time content rendering  
-- **🍴 AI Rasoi** – A bilingual recipe assistant using AI (Hindi + English)  
-- **🍔 Food Delivery System** – Inspired by Zomato/Swiggy with search & cart functionality  
-- **💬 Quora-style Q&A Site** – Users can post, comment, and interact with real-time backend  
-
-> Check out all my projects in the repositories section!
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,py,cpp,git,github,vscode)](https://skillicons.dev)
 
 ---
 
-### 🏆 Experience & Internships
+## 🔥 Projects I'm Proud Of
 
-- **Python Developer Intern** – CODTECH IT SOLUTIONS  
-- **Frontend Intern** – Oasis Infobyte  
-- **Published Research** – Paper on Drone Technology  
-
----
-
-### 📬 Let’s Connect
-
-- 📧 Email: nishtharoy1234@gmail.com  
-- 📱 Phone: 8797329233  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/nishtharoy3)  
-- 📸 [Instagram](https://www.instagram.com/nishtharoy3)
+| Project | Description |
+|--------|-------------|
+| **🎧 Spotify Clone** | Music streaming UI with custom playlists and interactive player |
+| **📺 Netflix Clone** | Dynamic streaming site with responsive layout and movie data |
+| **🍴 AI Rasoi** | A bilingual (Hindi+English) recipe assistant powered by AI |
+| **🍔 Food Delivery System** | Clone of Zomato/Swiggy with order and cart functionality |
+| **💬 Quora-style Q&A App** | Ask, answer, and upvote – powered by Node.js & MongoDB |
 
 ---
 
-> “Keep learning. Keep building. Stay curious.”
+## 📚 Experience & Highlights
 
-Thanks for stopping by! ⭐
+- 🧑‍💻 **Python Programming Intern** – CODTECH IT SOLUTIONS  
+- 🌐 **Frontend Developer Intern** – Oasis Infobyte  
+- ✈️ **Research Paper** – Published work on **Drone Technology**
+
+---
+
+## 📫 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishtharoy3)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nishtharoy3)
+[![Gmail](https://img.shields.io/badge/Email-nishtharoy1234@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishtharoy1234@gmail.com)
+
+---
+
+> “Great software is built by great people with a great purpose.”
+
+Thanks for visiting! ⭐ If you like my work, don’t forget to follow or star a project.
