@@ -19,17 +19,18 @@ Always curious, always learning. Let’s build something awesome together!
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,py,cpp,git,github,vscode)](https://skillicons.dev)
 
 ---
-## 🔥 Projects
+
 
 | Project | Description |
 |--------|-------------|
+| **📞 ApnaVideoCall** | A real-time video calling web app using WebRTC and Socket.io with peer-to-peer connection and chat support |
 | **🎧 Spotify Clone** | Music streaming UI with custom playlists and interactive player |
-| **📺 Netflix Clone** | Dynamic streaming site with responsive layout and movie data |
 | **🍴 AI Rasoi** | A bilingual (Hindi+English) recipe assistant powered by AI |
 | **🍔 Food Delivery System** | Clone of Zomato/Swiggy with order and cart functionality |
 | **💬 Quora-style Q&A App** | Ask, answer, and upvote – powered by Node.js & MongoDB |
 | **🧠 Simon Game** | Classic memory game built with JavaScript and interactive UI |
 | **🎯 Guessing Game** | Number guessing game with logic and score tracker in JS |
+
 
 
 ---
